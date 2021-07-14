@@ -1,6 +1,9 @@
 # Space-Invaders-DC
 this is a simple space invaders clone for dreamcast
 
+![Preview](https://github.com/Aionmagan/Space-Invaders-DC/DreamcastSS)
+
+
 # Dreamcast 
 i decided to poke around with the dreamcast 
 and made this space invaders clone, 
